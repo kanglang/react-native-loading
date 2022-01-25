@@ -2,7 +2,7 @@
 {
   "name": "react-native-loading",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-native 加载器",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,16 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "kanglanglang",
+    "email": "mister_Kang@163.com"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kanglang/react-native-basiclayout.git"
   }
 }
