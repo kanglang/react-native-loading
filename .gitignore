@@ -43,4 +43,14 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
-      
+
+*.jsbundle
+
+/android/app/build
+/android/app/release
+
+# CocoaPods
+/ios/Pods/
+android/.DS_Store
+android/java_pid*
+ios/Podfile.lock

@@ -2,8 +2,8 @@
  * @Author: kanglang
  * @Date: 2022-01-19 15:08:26
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-25 18:06:37
- * @Description: 使用注释 
+ * @LastEditTime: 2022-01-25 18:22:02
+ * @Description: loading使用释义 
 -->
 
 # react-native-basiclayout
