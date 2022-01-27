@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-loading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native 加载器",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,10 @@
     "email": "mister_Kang@163.com"
   },
   "license": "MIT",
+  // 告诉使用者, npm插件本身依赖哪些模块, 并且需要安装它
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": ">=0.63.0",
+    "react": ">=16.13.1"
   },
   "repository": {
     "type": "git",
