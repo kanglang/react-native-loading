@@ -2,7 +2,7 @@
  * @Author: kanglang
  * @Date: 2021-06-05 09:51:24
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-25 17:57:13
+ * @LastEditTime: 2022-01-28 15:24:23
  * @Description: 加载框
  */
 import React, { Component } from 'react';
@@ -26,7 +26,7 @@ function px2dp(uiElementPx) {
     return (uiElementPx * vWidth) / uiWidthPx;
 }
 
-export default class Loading extends Component {
+export default class Bestloading extends Component {
     constructor(props) {
         super(props);
         this.state = {};

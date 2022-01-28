@@ -2,18 +2,18 @@
  * @Author: kanglang
  * @Date: 2022-01-19 15:08:26
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-25 18:22:02
+ * @LastEditTime: 2022-01-28 15:24:34
  * @Description: loading使用释义 
 -->
 
-# react-native-basiclayout
+# react-native-bestloading
 
 ## Usage 使用
 ```javascript
-import Basiclayout from 'react-native-loading';
+import Basiclayout from 'react-native-bestloading';
 
 // TODO: What to do with the module?
-<Loading />
+<Bestloading />
 ;
 ```
 ## Loading 加载器
