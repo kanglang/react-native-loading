@@ -2,7 +2,7 @@
  * @Author: kanglang
  * @Date: 2022-01-19 15:08:26
  * @LastEditors: kanglang
- * @LastEditTime: 2022-01-28 15:24:34
+ * @LastEditTime: 2022-01-28 16:59:07
  * @Description: loading使用释义 
 -->
 
@@ -10,13 +10,13 @@
 
 ## Usage 使用
 ```javascript
-import Basiclayout from 'react-native-bestloading';
+import Bestloading from 'react-native-bestloading';
 
 // TODO: What to do with the module?
 <Bestloading />
 ;
 ```
-## Loading 加载器
+属性介绍
 
 | 属性                 | 功能                     | 类型             | 默认值     |
 | ------------------- | -----------------------  | -------------   | ---------  |
